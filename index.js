@@ -55,7 +55,7 @@ async function createWidget() {
 
     listWidget.backgroundColor = new Color("#f95e5e")
 
-    let heading = listWidget.addText("ยอดผู้ติดเชื้อวันนี้")
+    let heading = listWidget.addText("วันนี้ติดกันกี่คน ?")
     heading.centerAlignText()
     heading.font = Font.regularSystemFont(14)
     heading.textColor = new Color("#ffffff")
