@@ -1,4 +1,4 @@
-# COVID-19 in Thailand widget for iOS (Scrptable)
+# COVID-19 in Thailand widget for iOS (Scriptable)
 
 ##### ***ต้องมี Scriptable ก่อนถึงจะสามารถใช้งานได้
 
