@@ -1,4 +1,4 @@
-# COVID-19 in Thailand widget for iOS (Scriptable)
+# COVID-19 daily cases in Thailand widget for iOS (Scriptable)
 
 ##### ***ต้องมี Scriptable ก่อนถึงจะสามารถใช้งานได้
 
