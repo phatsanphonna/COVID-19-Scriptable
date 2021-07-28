@@ -1,5 +1,9 @@
 # COVID-19 daily cases in Thailand widget for iOS (Scriptable)
 
+<p  align="center">
+  <img src="https://i.imgur.com/OGlDxhQ.png">
+</p>
+
 ##### ***ต้องมี Scriptable ก่อนถึงจะสามารถใช้งานได้
 
 ## วิธีใช้
