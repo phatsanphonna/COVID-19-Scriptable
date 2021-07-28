@@ -19,3 +19,6 @@
 - เพิ่ม widget ของ Scriptable ในหน้าจอ
 - ตั้งค่า widget แล้วเลือก Script ที่เราสร้างไป
 - เลือก When Interacting เป็น Run Script
+
+## Resources
+ขอบคุณข้อมูลจาก [Sunday](https://easysunday.com/labs-covid-19/) และ API จาก [Sunday Technologies](https://static.easysunday.com/covid-19/getTodayCases.json) ด้วยครับ
