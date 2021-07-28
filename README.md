@@ -14,7 +14,7 @@
 
 ## วิธีใช้ 2 (ถ้าวิธีแรกใช้ไม่ได้)
 - คัดลอก code จากหน้า [https://gist.github.com/ssuniie/80d6731a849270227ec46d783ff5a928](https://gist.github.com/ssuniie/80d6731a849270227ec46d783ff5a928)
-- สร้าง script ใหม่ และ เอา code ที่คัดลอกมา ไปวาง
+- สร้าง script ใหม่ และ เอา code ที่คัดลอกมาไปวาง # อย่าลืมตั้งชื่อด้วยหล่ะ เดะลืม
 - เพิ่ม widget ของ Scriptable
-- ตั้งค่า widget แล้วเลือก Covid-19 in Thailand
+- ตั้งค่า widget แล้วเลือก Script ที่เราสร้างไป
 - เลือก When Interacting เป็น Run Script
